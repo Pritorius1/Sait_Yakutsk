@@ -1,0 +1,115 @@
+.banner {
+	background-color: white;
+	width: cover;
+	height: 400px;
+	color: black;
+	padding-top: 40px;
+
+}
+.textb {
+	margin-left: 480px;
+	font-size: 100px;
+	margin-top:60px;
+	font-family: myfont;
+}
+@font-face {
+
+	src:url(myfont.ttf);
+	font-family: myfont;
+}
+.menu {
+	height: 100px;
+	width: cover;
+	background-color: crimson;
+	color: white;
+	
+}
+.mt{
+	margin-left: 100px;
+	font-size: 50px;
+	font-family: arial;
+	margin-top: 10px;
+	color: white;
+
+}
+.mtb {
+	background-color: grey;
+	opacity: 0.5;
+	width: 300px;
+	height: 100px;
+	margin-left: 20px;
+
+}
+.mtb2 {
+
+	background-color: grey;
+	opacity: 0.5;
+	width: 300px;
+	height: 100px;
+	margin-left: 350px;
+	margin-top: -110px;
+	}
+.mtb3 {
+	
+	background-color: grey;
+	opacity: 0.5;
+	width: 300px;
+	height: 100px;
+	margin-left: 680px;
+	margin-top: -110px;
+	}
+.mtb4 {
+	
+	background-color: grey;
+	opacity: 0.5;
+	width: 300px;
+	height: 100px;
+	margin-left: 1010px;
+	margin-top: -110px;
+	}
+.block {
+	width: 300px;
+	height: 550px;
+	background-color: crimson;
+	margin-left: 30px;
+	margin-top: 100px;
+	font-family: myfont2;
+}
+@font-face {
+	src:url(myfont2.ttf);
+	font-family: myfont2;
+}
+.block2 {
+	width: 300px;
+	height: 550px;
+	background-color: crimson;
+	margin-left: 350px;
+	margin-top: -550px;
+	font-family: myfont2;
+}
+.block3 {
+	width: 300px;
+	height: 550px;
+	background-color: crimson;
+	margin-left: 670px;
+	margin-top: -550px;
+	font-family: myfont2;
+}
+.block4 {
+	width: 300px;
+	height: 550px;
+	background-color: crimson;
+	margin-left: 990px;
+	margin-top: -550px;
+	font-family: myfont2;
+}
+.line {
+	width: cover;
+	height: 100px;
+	background-color: crimson;
+	margin-top: 20px;
+}
+body {
+	background-color: black;
+}
+
